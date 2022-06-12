@@ -19,5 +19,6 @@ Moro em São Paulo - SP
  
  ## Meus Contatos 
  
- - LinkedIn 
- - Github @marcoscocacode
+ - LinkedIn: mcocafilho 
+ - Github: @marcoscocacode
+ - Contato: marcoscocafilho@gmail.com
