@@ -1,6 +1,8 @@
 # Bem vindo(a) ao meu perfil
 
-Olá, eu sou o Marcos Coca Filho.
+Olá, eu sou o Marcos Coca Filho 🙃
+
+Moro em São Paulo - SP
 
 
 ## Atualmente Estudando
