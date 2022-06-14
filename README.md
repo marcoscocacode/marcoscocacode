@@ -1,6 +1,8 @@
 # Bem vindo(a) ao meu perfil
 
-Olá, eu sou o Marcos Coca Filho.
+Olá, eu sou o Marcos Coca Filho 🙃
+
+Moro em São Paulo - SP
 
 
 ## Atualmente Estudando
@@ -17,5 +19,6 @@ Olá, eu sou o Marcos Coca Filho.
  
  ## Meus Contatos 
  
- - LinkedIn 
- - Github @marcoscocacode
+ - LinkedIn: mcocafilho 
+ - Github: @marcoscocacode
+ - Contato: marcoscocafilho@gmail.com
