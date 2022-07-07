@@ -9,12 +9,16 @@ Moro em São Paulo - SP
 
  - Git & Github
  - COBOL
+ - HTML5
+ - CSS3
  - Javascript
+ - Node.js
+ - MySQL
 
 ## Meus Hobbies
  
  - Ler
- - Jogar Video Games
+ - Iniciante Mestre de um RPG de Mesa
  - Cozinhar
  
  ## Meus Contatos 
