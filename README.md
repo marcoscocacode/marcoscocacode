@@ -7,8 +7,6 @@ Moro em São Paulo - SP
 
 ## Atualmente Estudando
 
- - Git & Github
- - COBOL
  - HTML5
  - CSS3
  - Javascript
