@@ -27,6 +27,7 @@ Moro em São Paulo - SP
  - Iniciante Mestre de um RPG de Mesa
  - Ler
  - Cozinhar
+ - Entusiasta de Tecnologia
  
  ## Meus Contatos 
  
