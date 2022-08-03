@@ -7,6 +7,8 @@ Moro em São Paulo - SP
 
 ## Atualmente Estudando
 
+
+ - Cloud e Cyber Security
  - HTML5
  - CSS3
  - Javascript
