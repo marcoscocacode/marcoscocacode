@@ -8,11 +8,11 @@ Moro em São Paulo - SP
 ## Atualmente Estudando
 
 
- - Cloud e Cyber Security
+ - Node.js
+ - React.js
  - HTML5
  - CSS3
  - Javascript
- - Node.js
  - MySQL
 
 ## Minhas Habilidades
